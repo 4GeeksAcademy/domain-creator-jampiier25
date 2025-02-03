@@ -7,6 +7,7 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {};
 
+
 let pronoun = ["the", "our", "my"];
 let adj = ["great", "big", "awesome"];
 let noun = ["jogger", "racoon", "web"];
